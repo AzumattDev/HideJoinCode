@@ -1,0 +1,9 @@
+﻿{
+  "name": "HideJoinCode",
+  "version_number": "1.0.0",
+  "website_url": "https://discord.gg/pdHgy6Bsng",
+  "description": "Quick and dirty mod I made for streamers at the request of a streamer. Hides the join code that shows when pressing Escape to show the game menu in-game.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1901"
+  ]
+}
