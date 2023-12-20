@@ -20,15 +20,7 @@ sure that it's inside the mod profile's version of that folder.
 
 `STEAM:` https://steamcommunity.com/id/azumatt/
 
-For Questions or Comments, find me in the Odin Plus Team Discord or in mine:
+For find me in my discord:
 
-[![https://i.imgur.com/XXP6HCU.png](https://i.imgur.com/XXP6HCU.png)](https://discord.gg/Pb6bVMnFb2)
 <a href="https://discord.gg/pdHgy6Bsng"><img src="https://i.imgur.com/Xlcbmm9.png" href="https://discord.gg/pdHgy6Bsng" width="175" height="175"></a>
 ***
-
-
-> # Update Information (Latest listed first)
-
-| `Version Number` | `Update Notes`  |
-|------------------|-----------------|
-| 1.0.0            | Initial Release |

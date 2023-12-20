@@ -1,5 +1,5 @@
 ﻿using HarmonyLib;
-using UnityEngine.UI;
+using TMPro;
 
 namespace HideJoinCode;
 
@@ -10,7 +10,7 @@ static class JoinCodeUpdatePatch
     {
         if (!__instance.m_inMenu && __instance.m_isVisible <= 0.0)
             return;
-        __instance.m_btn.gameObject.GetComponentInChildren<Text>().text = "";
+        __instance.m_btn.gameObject.GetComponentInChildren<TMP_Text>().text = "";
         JoinCode.Hide();
     }
 
@@ -18,7 +18,7 @@ static class JoinCodeUpdatePatch
     {
         if (!__instance.m_inMenu && __instance.m_isVisible <= 0.0)
             return;
-        __instance.m_btn.gameObject.GetComponentInChildren<Text>().text = "";
+        __instance.m_btn.gameObject.GetComponentInChildren<TMP_Text>().text = "";
         JoinCode.Hide();
     }
 }
